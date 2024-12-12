@@ -1,69 +1,234 @@
-[17:16:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:16:50] [ServerMain/INFO]: No existing world data, creating new world
-[17:16:51] [ServerMain/INFO]: Loaded 7 recipes
-[17:16:51] [ServerMain/INFO]: Loaded 1271 advancements
-[17:16:51] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[17:16:51] [Server thread/INFO]: Loading properties
-[17:16:51] [Server thread/INFO]: Default game type: SURVIVAL
-[17:16:51] [Server thread/INFO]: Generating keypair
-[17:16:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:16:51] [Server thread/INFO]: Using epoll channel type
-[17:16:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:16:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:16:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:16:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:16:51] [Server thread/INFO]: Preparing level "world"
-[17:16:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:16:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:16:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:16:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:16:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:16:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:16:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:17:00] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[17:17:00] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[17:17:01] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[17:17:01] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[17:17:02] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[17:17:02] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[17:17:03] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[17:17:03] [Worker-Main-1/INFO]: Preparing spawn area: 11%
-[17:17:04] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[17:17:04] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[17:17:05] [Worker-Main-3/INFO]: Preparing spawn area: 16%
-[17:17:05] [Worker-Main-3/INFO]: Preparing spawn area: 19%
-[17:17:06] [Worker-Main-3/INFO]: Preparing spawn area: 21%
-[17:17:06] [Worker-Main-3/INFO]: Preparing spawn area: 23%
-[17:17:07] [Worker-Main-1/INFO]: Preparing spawn area: 25%
-[17:17:07] [Worker-Main-1/INFO]: Preparing spawn area: 28%
-[17:17:08] [Worker-Main-3/INFO]: Preparing spawn area: 31%
-[17:17:08] [Worker-Main-3/INFO]: Preparing spawn area: 33%
-[17:17:09] [Worker-Main-1/INFO]: Preparing spawn area: 35%
-[17:17:09] [Worker-Main-2/INFO]: Preparing spawn area: 37%
-[17:17:10] [Worker-Main-2/INFO]: Preparing spawn area: 40%
-[17:17:10] [Worker-Main-1/INFO]: Preparing spawn area: 42%
-[17:17:11] [Worker-Main-2/INFO]: Preparing spawn area: 45%
-[17:17:11] [Worker-Main-1/INFO]: Preparing spawn area: 47%
-[17:17:12] [Worker-Main-3/INFO]: Preparing spawn area: 50%
-[17:17:12] [Worker-Main-2/INFO]: Preparing spawn area: 54%
-[17:17:13] [Worker-Main-1/INFO]: Preparing spawn area: 57%
-[17:17:13] [Worker-Main-1/INFO]: Preparing spawn area: 59%
-[17:17:14] [Worker-Main-3/INFO]: Preparing spawn area: 62%
-[17:17:14] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[17:17:15] [Worker-Main-1/INFO]: Preparing spawn area: 68%
-[17:17:15] [Worker-Main-2/INFO]: Preparing spawn area: 70%
-[17:17:16] [Worker-Main-2/INFO]: Preparing spawn area: 74%
-[17:17:16] [Worker-Main-2/INFO]: Preparing spawn area: 77%
-[17:17:17] [Worker-Main-1/INFO]: Preparing spawn area: 81%
-[17:17:17] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[17:17:18] [Worker-Main-3/INFO]: Preparing spawn area: 86%
-[17:17:18] [Worker-Main-3/INFO]: Preparing spawn area: 88%
-[17:17:19] [Worker-Main-3/INFO]: Preparing spawn area: 91%
-[17:17:19] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[17:17:20] [Worker-Main-2/INFO]: Preparing spawn area: 98%
-[17:17:20] [Server thread/INFO]: Time elapsed: 23140 ms
-[17:17:20] [Server thread/INFO]: Done (28.456s)! For help, type "help"
-[17:18:45] [Server thread/INFO]: Evvinz[/[0:0:0:0:0:0:0:1%0]:53788] logged in with entity id 503 at (348.5, 63.0, 152.5)
-[17:18:45] [Server thread/INFO]: Evvinz joined the game
-[17:23:35] [Server thread/INFO]: Made Evvinz a server operator
-[17:23:41] [Server thread/INFO]: [Evvinz: Set own game mode to Creative Mode]
+[04:08:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:08:59] [ServerMain/INFO]: Loaded 7 recipes
+[04:08:59] [ServerMain/INFO]: Loaded 1271 advancements
+[04:09:00] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[04:09:00] [Server thread/INFO]: Loading properties
+[04:09:00] [Server thread/INFO]: Default game type: SURVIVAL
+[04:09:00] [Server thread/INFO]: Generating keypair
+[04:09:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:09:00] [Server thread/INFO]: Using epoll channel type
+[04:09:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:09:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:09:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:09:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:09:00] [Server thread/INFO]: Preparing level "world"
+[04:09:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:09:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:09:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:09:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:09:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:09:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:09:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:09:07] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[04:09:07] [Worker-Main-1/INFO]: Preparing spawn area: 34%
+[04:09:08] [Worker-Main-1/INFO]: Preparing spawn area: 77%
+[04:09:08] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[04:09:08] [Worker-Main-1/INFO]: Preparing spawn area: 98%
+[04:09:09] [Server thread/INFO]: Time elapsed: 5121 ms
+[04:09:09] [Server thread/INFO]: Done (8.415s)! For help, type "help"
+[04:09:12] [Server thread/INFO]: Evvinz[/[0:0:0:0:0:0:0:1%0]:46236] logged in with entity id 225 at (417.44254523720934, 81.0, 212.87780260117202)
+[04:09:12] [Server thread/INFO]: Evvinz joined the game
+[04:09:12] [Server thread/WARN]: UUID of added entity already exists: byz['Turtle'/237, l='ServerLevel[world]', x=303.12, y=57.00, z=351.12]
+[04:09:17] [Server thread/INFO]: Toki_D124[/[0:0:0:0:0:0:0:1%0]:46242] logged in with entity id 269 at (351.5, 64.0, 155.5)
+[04:09:17] [Server thread/INFO]: Toki_D124 joined the game
+[04:09:43] [Server thread/WARN]: Evvinz moved too quickly! -6.851378446664455,-0.39000001549720764,-8.045922359222033
+[04:09:56] [Server thread/INFO]: [Evvinz: Set own game mode to Survival Mode]
+[04:10:02] [Server thread/INFO]: Evvinz was killed while fighting Toki_D124
+[04:10:02] [Server thread/INFO]: [Evvinz: Killed Evvinz]
+[04:10:31] [Server thread/INFO]: [Evvinz: Set the time to 0]
+[04:11:04] [Server thread/INFO]: ddednkald[/[0:0:0:0:0:0:0:1%0]:36448] logged in with entity id 817 at (357.5, 70.0, 145.5)
+[04:11:04] [Server thread/INFO]: ddednkald joined the game
+[04:11:22] [Server thread/INFO]: [Not Secure] <ddednkald> donde andan
+[04:11:30] [Server thread/INFO]: shelbylmw[/[0:0:0:0:0:0:0:1%0]:56436] logged in with entity id 961 at (355.5, 67.0, 142.5)
+[04:11:30] [Server thread/INFO]: shelbylmw joined the game
+[04:11:48] [Server thread/INFO]: You whisper to Toki_D124: hola, habla un fantasma
+[04:12:32] [Server thread/INFO]: ddednkald has made the advancement [Stone Age]
+[04:12:40] [Server thread/INFO]: ddednkald has made the advancement [Getting an Upgrade]
+[04:12:47] [Server thread/INFO]: Evvinz has made the advancement [Stone Age]
+[04:12:50] [Server thread/INFO]: Evvinz has made the advancement [Getting an Upgrade]
+[04:13:42] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=339, y=62, z=143}
+[04:13:42] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=339, y=62, z=142}
+[04:13:42] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=338, y=62, z=142}
+[04:13:43] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=338, y=62, z=142}
+[04:13:43] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=338, y=61, z=142}
+[04:13:43] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=338, y=61, z=142}
+[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=338, y=62, z=142}
+[04:13:50] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=337, y=62, z=142}
+[04:13:50] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=337, y=62, z=142}
+[04:13:50] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=338, y=62, z=142}
+[04:14:05] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=356, y=66, z=129}
+[04:14:05] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=355, y=66, z=129}
+[04:14:05] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=355, y=66, z=129}
+[04:14:06] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=356, y=66, z=129}
+[04:14:06] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=356, y=66, z=129}
+[04:14:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=358, y=68, z=129}
+[04:14:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=359, y=69, z=129}
+[04:14:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=360, y=69, z=129}
+[04:14:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=359, y=69, z=129}
+[04:14:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=360, y=69, z=129}
+[04:14:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=360, y=69, z=129}
+[04:14:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=361, y=70, z=129}
+[04:14:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=361, y=70, z=129}
+[04:14:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=360, y=69, z=129}
+[04:14:08] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=327, y=63, z=145} hx{x=361, y=70, z=129}
+[04:14:42] [Server thread/INFO]: ddednkald has made the advancement [Acquire Hardware]
+[04:14:46] [Server thread/INFO]: shelbylmw has made the advancement [Stone Age]
+[04:15:15] [Server thread/INFO]: Toki_D124 has made the advancement [Stone Age]
+[04:15:32] [Server thread/INFO]: Toki_D124 has made the advancement [Getting an Upgrade]
+[04:15:42] [Server thread/INFO]: ddednkald has made the advancement [Isn't It Iron Pick]
+[04:16:07] [Server thread/INFO]: ddednkald has made the advancement [Monster Hunter]
+[04:16:35] [Server thread/INFO]: shelbylmw has made the advancement [Getting an Upgrade]
+[04:17:35] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[04:17:35] [Server thread/INFO]: ...a health Vida<--[HERE]
+[04:17:48] [Server thread/INFO]: Unknown scoreboard objective 'a'
+[04:19:42] [Server thread/INFO]: Toki_D124 has made the advancement [Acquire Hardware]
+[04:19:54] [Server thread/INFO]: ddednkald has made the advancement [Hot Stuff]
+[04:20:50] [Server thread/INFO]: Toki_D124 has made the advancement [Isn't It Iron Pick]
+[04:20:57] [Server thread/INFO]: [Evvinz: Created new objective [VIDA]]
+[04:21:18] [Server thread/INFO]: [Evvinz: Set display slot list to show objective VIDA]
+[04:21:41] [Server thread/INFO]: [Evvinz: The difficulty has been set to Hard]
+[04:21:47] [Server thread/INFO]: Toki_D124 has made the advancement [Sweet Dreams]
+[04:21:47] [Server thread/INFO]: shelbylmw has made the advancement [Monster Hunter]
+[04:22:03] [Server thread/INFO]: Toki_D124 has made the advancement [Monster Hunter]
+[04:22:06] [Server thread/INFO]: [Not Secure] <ddednkald> ya tengo pportal we
+[04:24:42] [Server thread/INFO]: [Evvinz: Gamerule playersSleepingPercentage is now set to: 1]
+[04:25:35] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=370, y=13, z=146} hx{x=367, y=6, z=156}
+[04:25:59] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=370, y=13, z=146} hx{x=367, y=6, z=156}
+[04:26:00] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=370, y=13, z=146} hx{x=366, y=6, z=156}
+[04:26:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=370, y=13, z=146} hx{x=366, y=6, z=157}
+[04:26:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=370, y=13, z=146} hx{x=366, y=6, z=156}
+[04:26:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=370, y=13, z=146} hx{x=366, y=5, z=156}
+[04:26:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=370, y=13, z=146} hx{x=366, y=6, z=156}
+[04:26:15] [Server thread/INFO]: shelbylmw lost connection: You logged in from another location
+[04:26:15] [Server thread/INFO]: shelbylmw left the game
+[04:26:15] [Server thread/WARN]: handleDisconnection() called twice
+[04:26:15] [Server thread/INFO]: shelbylmw[/[0:0:0:0:0:0:0:1%0]:47060] logged in with entity id 6775 at (366.45129454169887, 7.0, 156.22278550600043)
+[04:26:15] [Server thread/INFO]: shelbylmw joined the game
+[04:26:20] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=5, z=156}
+[04:26:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=5, z=156}
+[04:26:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=6, z=156}
+[04:26:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=367, y=6, z=156}
+[04:26:28] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=6, z=156}
+[04:26:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=5, z=156}
+[04:26:32] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=6, z=156}
+[04:26:43] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=5, z=156}
+[04:26:44] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=5, z=156}
+[04:26:44] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=6, z=156}
+[04:26:46] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=5, z=156}
+[04:26:48] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=5, z=156}
+[04:26:48] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=6, z=156}
+[04:26:59] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=367, y=5, z=156}
+[04:27:02] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=367, y=5, z=156}
+[04:27:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=5, z=156}
+[04:27:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=366, y=6, z=156}
+[04:27:29] [Server thread/INFO]: Toki_D124 has made the advancement [We Need to Go Deeper]
+[04:27:30] [Server thread/WARN]: Evvinz moved too quickly! 5.430045505071689,-1.252203340253729,8.546749492897334
+[04:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2715ms or 54 ticks behind
+[04:27:38] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=370, y=7, z=156} hx{x=366, y=6, z=156}
+[04:27:48] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=371, y=7, z=156} hx{x=365, y=4, z=154}
+[04:27:48] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=371, y=7, z=156} hx{x=365, y=5, z=154}
+[04:28:06] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=374, y=4, z=151} hx{x=367, y=6, z=156}
+[04:28:06] [Server thread/INFO]: [Not Secure] <ddednkald> mamamaanajaajaw
+[04:28:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=374, y=4, z=151} hx{x=367, y=6, z=156}
+[04:28:07] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=374, y=4, z=151} hx{x=368, y=6, z=156}
+[04:28:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=374, y=4, z=151} hx{x=366, y=6, z=156}
+[04:28:09] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=374, y=4, z=151} hx{x=367, y=6, z=156}
+[04:28:12] [Server thread/INFO]: ddednkald has made the advancement [We Need to Go Deeper]
+[04:28:39] [Server thread/INFO]: [Not Secure] <ddednkald> waterdrop
+[04:30:50] [Server thread/INFO]: [Not Secure] <ddednkald> jajajaja
+[04:31:02] [Server thread/INFO]: shelbylmw has made the advancement [Acquire Hardware]
+[04:31:38] [Server thread/INFO]: shelbylmw has made the advancement [Isn't It Iron Pick]
+[04:31:43] [Server thread/INFO]: shelbylmw has made the advancement [Diamonds!]
+[04:32:14] [Server thread/INFO]: Toki_D124 has made the advancement [Not Today, Thank You]
+[04:33:10] [Server thread/INFO]: [Not Secure] <ddednkald> TRAE XRAY
+[04:33:25] [Server thread/INFO]: [Not Secure] <ddednkald> aaceptas o ss
+[04:33:50] [Server thread/INFO]: [Not Secure] <ddednkald> kakajjaka
+[04:34:34] [Server thread/INFO]: [Not Secure] <ddednkald> biblia reference we
+[04:35:46] [Server thread/INFO]: [Not Secure] <ddednkald> no hay aldeas we
+[04:36:04] [Server thread/INFO]: ddednkald has made the advancement [Sweet Dreams]
+[04:36:21] [Server thread/INFO]: Toki_D124 has made the advancement [Suit Up]
+[04:38:00] [Server thread/INFO]: [Not Secure] <ddednkald> buscando aldea we
+[04:38:07] [Server thread/INFO]: [Not Secure] <ddednkald> ya pase como 8 idiomas
+[04:38:27] [Server thread/INFO]: [Not Secure] <ddednkald> las aldeas estan op
+[04:40:11] [Server thread/INFO]: [Not Secure] <ddednkald> esta es mi muerte en el dedsafio
+[04:40:17] [Server thread/INFO]: shelbylmw was blown up by Creeper
+[04:40:22] [Server thread/INFO]: [Not Secure] <ddednkald> jajajajaajaajaaaaja
+[04:40:31] [Server thread/INFO]: [Not Secure] <ddednkald> jajajajaaajaj
+[04:40:55] [Server thread/WARN]: Toki_D124 moved too quickly! -10.10154468482824,0.0,-0.04145236575436684
+[04:41:50] [Server thread/INFO]: Toki_D124 has made the advancement [Diamonds!]
+[04:42:13] [Server thread/INFO]: Evvinz has made the advancement [Acquire Hardware]
+[04:42:18] [Server thread/INFO]: Evvinz has made the advancement [Isn't It Iron Pick]
+[04:42:44] [Server thread/INFO]: [Not Secure] <ddednkald> euw}
+[04:43:54] [Server thread/INFO]: Evvinz has made the advancement [Suit Up]
+[04:45:13] [Server thread/INFO]: Toki_D124 has made the advancement [Ice Bucket Challenge]
+[04:45:53] [Server thread/INFO]: Evvinz has made the advancement [Diamonds!]
+[04:46:31] [Server thread/INFO]: [Not Secure] <ddednkald> hermanono hay un coño
+[04:46:47] [Server thread/INFO]: Evvinz has made the advancement [Monster Hunter]
+[04:48:50] [Server thread/INFO]: Evvinz has made the advancement [Not Today, Thank You]
+[04:50:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 2.1525073568891457,0.0,10.004076260860984
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 2.3475149186401723,0.0,10.342006788729577
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 2.540831259600054,0.0,10.681959029045629
+[04:50:03] [Server thread/WARN]: Evvinz moved too quickly! 9.52420614690405,2.1661092609382138,-3.4317891847630335
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 2.732039405691012,0.0,11.024016365193347
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 2.9208187731023827,0.0,11.368217092228406
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 3.106933357417347,0.0,11.714563019804245
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 3.2902137817691255,0.0,12.063029829962488
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 3.470551408945994,0.0,12.41357128804384
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 3.647882269674028,0.0,12.766127208558373
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 3.82218662193236,0.0,13.120624455388224
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 3.993477801282552,0.0,13.476982010570282
+[04:50:03] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 4.161795639510274,0.0,13.835113856093813
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 4.327200462242217,0.0,14.194931411056132
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 4.48977122768747,0.0,14.556344257337969
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 4.6495966086113185,0.0,14.91926334081154
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 4.806777742443501,0.0,15.283599832836899
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 4.961423476520395,0.0,15.64926667606187
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 5.113646051548585,0.0,16.01617987505597
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 5.263560820940256,0.0,16.384258357757062
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! 5.411285992629473,0.0,16.75342382097051
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.295317629794226,0.0,-9.322125230512484
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved wrongly! 1.9691365673643304
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.437179105191717,0.0,-9.694240974447439
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved too quickly! -4.284492175091145,0.0,-9.326885930591288
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved wrongly! 1.978191422967484
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved wrongly! 1.614666812782616
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved wrongly! 1.2527518438250809
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved wrongly! 0.8922703601992907
+[04:50:04] [Server thread/WARN]: Oak Boat (vehicle of ddednkald) moved wrongly! 0.5330676288513132
+[04:51:47] [Server thread/INFO]: shelbylmw lost connection: You logged in from another location
+[04:51:47] [Server thread/INFO]: shelbylmw left the game
+[04:51:48] [Server thread/INFO]: shelbylmw[/[0:0:0:0:0:0:0:1%0]:45574] logged in with entity id 37476 at (462.0605457572823, 69.0, 98.93495030699106)
+[04:51:48] [Server thread/INFO]: shelbylmw joined the game
+[04:53:22] [Server thread/INFO]: [Not Secure] <ddednkald> hermano
+[04:53:25] [Server thread/INFO]: [Not Secure] <ddednkald> me glitche
+[04:53:50] [Server thread/INFO]: ddednkald lost connection: You logged in from another location
+[04:53:50] [Server thread/INFO]: ddednkald left the game
+[04:53:51] [Server thread/INFO]: ddednkald[/[0:0:0:0:0:0:0:1%0]:44476] logged in with entity id 40438 at (2925.896028408416, 63.08576431274413, 3638.195547767552)
+[04:53:51] [Server thread/INFO]: ddednkald joined the game
+[04:53:57] [Server thread/INFO]: [Not Secure] <ddednkald> ya wew
+[04:54:09] [Server thread/INFO]: [Not Secure] <ddednkald> aldeaaa
+[04:54:21] [Server thread/INFO]: [Not Secure] <ddednkald> 3000 x 3500
+[04:57:01] [Server thread/INFO]: [Not Secure] <ddednkald> hermano son dos aldeas juntas
+[04:57:10] [Server thread/INFO]: shelbylmw has made the advancement [Suit Up]
+[04:57:51] [Server thread/WARN]: Toki_D124 moved too quickly! 8.309922655114178,-5.815026972255467,-0.44578431579662947
+[04:58:17] [Server thread/INFO]: [Not Secure] <ddednkald> 3000 x 3500
