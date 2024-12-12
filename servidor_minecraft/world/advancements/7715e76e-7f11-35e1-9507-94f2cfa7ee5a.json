@@ -224,6 +224,7 @@
       "cooked_porkchop": "2024-12-12 04:17:53 +0000",
       "apple": "2024-12-12 04:14:33 +0000",
       "golden_apple": "2024-12-12 04:34:21 +0000",
+      "bread": "2024-12-12 07:24:15 +0000",
       "rotten_flesh": "2024-12-12 04:29:09 +0000",
       "cooked_mutton": "2024-12-12 04:59:05 +0000",
       "glow_berries": "2024-12-12 04:31:13 +0000"
@@ -378,7 +379,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-12 06:39:55 +0000",
       "minecraft:spider": "2024-12-12 05:03:45 +0000",
-      "minecraft:zombie": "2024-12-12 04:21:47 +0000"
+      "minecraft:zombie": "2024-12-12 04:21:47 +0000",
+      "minecraft:slime": "2024-12-12 07:25:08 +0000"
     },
     "done": false
   },
@@ -1358,6 +1360,24 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2024-12-12 06:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-12 07:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-12 07:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-12 07:25:11 +0000"
     },
     "done": true
   },
