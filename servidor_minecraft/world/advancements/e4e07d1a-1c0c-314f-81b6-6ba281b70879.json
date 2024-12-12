@@ -534,10 +534,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-12 06:47:09 +0000",
       "minecraft:skeleton": "2024-12-12 04:16:18 +0000",
       "minecraft:zombified_piglin": "2024-12-12 06:22:46 +0000",
       "minecraft:spider": "2024-12-12 04:16:07 +0000",
-      "minecraft:zombie": "2024-12-12 04:25:01 +0000"
+      "minecraft:zombie": "2024-12-12 04:25:01 +0000",
+      "minecraft:creeper": "2024-12-12 06:43:40 +0000"
     },
     "done": false
   },
@@ -1332,6 +1334,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-12 06:41:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-12 06:03:00 +0000"
@@ -1359,6 +1367,24 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2024-12-12 06:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-12 06:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-12 06:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-12 06:43:42 +0000"
     },
     "done": true
   },
