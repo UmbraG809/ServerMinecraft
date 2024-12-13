@@ -540,6 +540,7 @@
       "minecraft:piglin": "2024-12-13 02:03:41 +0000",
       "minecraft:vindicator": "2024-12-13 00:48:50 +0000",
       "minecraft:zombified_piglin": "2024-12-12 06:22:46 +0000",
+      "minecraft:witch": "2024-12-13 17:24:59 +0000",
       "minecraft:spider": "2024-12-12 04:16:07 +0000",
       "minecraft:zombie": "2024-12-12 04:25:01 +0000",
       "minecraft:creeper": "2024-12-12 06:43:40 +0000",
@@ -1998,6 +1999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-13 16:45:28 +0000"
@@ -2007,6 +2014,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-13 16:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:35:40 +0000"
     },
     "done": true
   },
@@ -2034,9 +2047,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-13 16:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:35:40 +0000"
     },
     "done": true
   },
@@ -2049,6 +2074,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-13 16:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:35:40 +0000"
     },
     "done": true
   },
@@ -2082,9 +2113,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-13 16:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:35:40 +0000"
     },
     "done": true
   },
@@ -2103,6 +2152,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-13 16:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 17:35:40 +0000"
     },
     "done": true
   },
