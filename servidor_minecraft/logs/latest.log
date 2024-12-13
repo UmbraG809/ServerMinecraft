@@ -136,3 +136,8 @@
 [18:18:25] [Server thread/INFO]: [Not Secure] <Evvinz> ya me voy al rato apago el server, te aviso cuando hermoso
 [18:18:55] [Server thread/INFO]: Evvinz lost connection: Disconnected
 [18:18:55] [Server thread/INFO]: Evvinz left the game
+[18:38:04] [Server thread/INFO]: ddednkald lost connection: Timed out
+[18:38:04] [Server thread/INFO]: ddednkald left the game
+[18:38:04] [Server thread/WARN]: handleDisconnection() called twice
+[18:38:54] [Server thread/INFO]: ddednkald[/127.7.142.236:58947] logged in with entity id 36142 at (3070.537172723077, 114.0, 3740.147961759967)
+[18:38:54] [Server thread/INFO]: ddednkald joined the game
