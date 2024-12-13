@@ -342,7 +342,8 @@
       "suspicious_stew": "2024-12-13 04:07:07 +0000",
       "cooked_mutton": "2024-12-13 01:05:00 +0000",
       "cooked_beef": "2024-12-12 04:16:18 +0000",
-      "baked_potato": "2024-12-13 03:03:24 +0000"
+      "baked_potato": "2024-12-13 03:03:24 +0000",
+      "golden_carrot": "2024-12-13 18:15:07 +0000"
     },
     "done": false
   },
@@ -846,6 +847,7 @@
       "minecraft:enderman": "2024-12-12 06:21:40 +0000",
       "minecraft:spider": "2024-12-12 05:17:27 +0000",
       "minecraft:zombie": "2024-12-12 04:46:47 +0000",
+      "minecraft:creeper": "2024-12-13 18:13:58 +0000",
       "minecraft:zombie_villager": "2024-12-12 04:46:53 +0000"
     },
     "done": false
@@ -1766,6 +1768,30 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-13 17:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-13 18:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-13 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-13 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-13 18:14:13 +0000"
     },
     "done": true
   },
