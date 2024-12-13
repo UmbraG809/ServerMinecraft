@@ -1,52 +1,33 @@
-[04:29:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:29:20] [ServerMain/INFO]: Loaded 7 recipes
-[04:29:20] [ServerMain/INFO]: Loaded 1271 advancements
-[04:29:21] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[04:29:21] [Server thread/INFO]: Loading properties
-[04:29:21] [Server thread/INFO]: Default game type: SURVIVAL
-[04:29:21] [Server thread/INFO]: Generating keypair
-[04:29:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:29:21] [Server thread/INFO]: Using epoll channel type
-[04:29:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:29:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:29:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:29:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:29:21] [Server thread/INFO]: Preparing level "world"
-[04:29:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:29:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:29:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:29:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:29:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:30] [Worker-Main-2/INFO]: Preparing spawn area: 5%
-[04:29:31] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[04:29:31] [Server thread/INFO]: Time elapsed: 5251 ms
-[04:29:31] [Server thread/INFO]: Done (9.776s)! For help, type "help"
-[04:29:31] [Server thread/INFO]: Evvinz (/127.1.54.190:51249) lost connection: Disconnected
-[04:29:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[04:29:31] [Server thread/INFO]: <--[HERE]
-[04:29:36] [Server thread/INFO]: Evvinz[/127.1.54.190:55339] logged in with entity id 88 at (3082.042382122159, 104.0, 3691.7137121448977)
-[04:29:37] [Server thread/INFO]: Evvinz joined the game
-[04:29:40] [Server thread/INFO]: ddednkald[/127.7.142.236:38513] logged in with entity id 357 at (3076.089820505118, 106.93883597911214, 3716.7760666411364)
-[04:29:40] [Server thread/INFO]: ddednkald joined the game
-[04:41:54] [Server thread/INFO]: [Evvinz: Teleported Evvinz to ddednkald]
-[04:41:57] [Server thread/INFO]: [Evvinz: Teleported Evvinz to ddednkald]
-[04:44:50] [Server thread/INFO]: [Evvinz: Teleported Evvinz to ddednkald]
-[04:46:50] [Server thread/INFO]: [Evvinz: Teleported ddednkald to Evvinz]
-[04:51:32] [Server thread/INFO]: Evvinz has made the advancement [Voluntary Exile]
-[04:53:36] [Server thread/INFO]: [Not Secure] <ddednkald> ya callate we
-[04:56:22] [Server thread/INFO]: ddednkald has completed the challenge [Hero of the Village]
-[04:56:22] [Server thread/INFO]: Evvinz has completed the challenge [Hero of the Village]
-[04:56:54] [Server thread/INFO]: shelbylmw[/127.214.202.138:32993] logged in with entity id 5779 at (3027.2640014089984, 106.0, 3717.0516484073287)
-[04:56:54] [Server thread/INFO]: shelbylmw joined the game
-[04:57:15] [Server thread/INFO]: [Not Secure] <ddednkald> alrato jueg we
-[04:57:17] [Server thread/INFO]: ddednkald lost connection: Disconnected
-[04:57:17] [Server thread/INFO]: ddednkald left the game
-[04:59:32] [Server thread/INFO]: shelbylmw lost connection: Disconnected
-[04:59:32] [Server thread/INFO]: shelbylmw left the game
-[04:59:34] [Server thread/INFO]: Evvinz lost connection: Disconnected
-[04:59:34] [Server thread/INFO]: Evvinz left the game
+[16:42:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:42:44] [ServerMain/INFO]: Loaded 7 recipes
+[16:42:44] [ServerMain/INFO]: Loaded 1271 advancements
+[16:42:45] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[16:42:45] [Server thread/INFO]: Loading properties
+[16:42:45] [Server thread/INFO]: Default game type: SURVIVAL
+[16:42:45] [Server thread/INFO]: Generating keypair
+[16:42:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:42:45] [Server thread/INFO]: Using epoll channel type
+[16:42:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:42:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:42:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:42:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:42:45] [Server thread/INFO]: Preparing level "world"
+[16:42:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:42:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:42:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:42:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:42:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:42:52] [Worker-Main-2/INFO]: Preparing spawn area: 55%
+[16:42:53] [Server thread/INFO]: Time elapsed: 4285 ms
+[16:42:53] [Server thread/INFO]: Done (7.283s)! For help, type "help"
+[16:43:54] [Server thread/INFO]: ddednkald[/127.7.142.236:60101] logged in with entity id 87 at (3076.960190621943, 104.0, 3693.1784022415027)
+[16:43:54] [Server thread/INFO]: ddednkald joined the game
+[16:48:55] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=3038, y=103, z=3674} hx{x=3037, y=101, z=3675}
+[16:48:55] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=3038, y=103, z=3674} hx{x=3037, y=101, z=3675}
+[16:48:55] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=3038, y=103, z=3674} hx{x=3037, y=101, z=3675}
+[16:48:55] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=3038, y=103, z=3674} hx{x=3037, y=101, z=3675}
+[16:50:25] [Server thread/INFO]: [Not Secure] <ddednkald> w
