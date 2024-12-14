@@ -57,3 +57,8 @@
 [03:12:00] [Server thread/INFO]: shelbylmw left the game
 [03:12:04] [Server thread/INFO]: shelbylmw[/127.235.251.137:43633] logged in with entity id 26142 at (3086.421358419135, 113.0, 3743.2522980539125)
 [03:12:04] [Server thread/INFO]: shelbylmw joined the game
+[03:17:05] [Server thread/INFO]: shelbylmw lost connection: Timed out
+[03:17:05] [Server thread/INFO]: shelbylmw left the game
+[03:17:05] [Server thread/WARN]: handleDisconnection() called twice
+[03:19:49] [Server thread/INFO]: shelbylmw[/127.235.251.137:33683] logged in with entity id 32589 at (3052.037378258034, 112.5625, 3727.4363857953986)
+[03:19:49] [Server thread/INFO]: shelbylmw joined the game
