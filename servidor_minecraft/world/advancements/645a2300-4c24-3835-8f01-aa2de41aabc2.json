@@ -1771,9 +1771,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "shot_arrow": "2024-12-13 18:15:25 +0000"
+      "shot_crossbow": "2024-12-13 18:14:13 +0000"
     },
     "done": true
   },
@@ -1789,9 +1789,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "shot_crossbow": "2024-12-13 18:14:13 +0000"
+      "shot_arrow": "2024-12-13 18:15:25 +0000"
     },
     "done": true
   },
