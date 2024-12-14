@@ -1908,15 +1908,64 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-14 04:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-14 04:31:58 +0000",
+      "minecraft:sheep": "2024-12-14 04:31:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-14 04:24:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 04:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-14 04:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-14 04:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-14 04:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-14 04:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-14 04:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-14 04:35:31 +0000"
     },
     "done": true
   },
@@ -1929,6 +1978,18 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2024-12-14 03:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-14 04:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-14 04:35:31 +0000"
     },
     "done": true
   },
@@ -1947,6 +2008,18 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-14 03:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 04:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-14 04:31:57 +0000"
     },
     "done": true
   },
