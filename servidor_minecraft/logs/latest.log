@@ -1,237 +1,26 @@
-[02:05:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:05:21] [ServerMain/INFO]: Loaded 7 recipes
-[02:05:21] [ServerMain/INFO]: Loaded 1271 advancements
-[02:05:22] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[02:05:22] [Server thread/INFO]: Loading properties
-[02:05:22] [Server thread/INFO]: Default game type: SURVIVAL
-[02:05:22] [Server thread/INFO]: Generating keypair
-[02:05:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:05:22] [Server thread/INFO]: Using epoll channel type
-[02:05:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:05:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:05:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:05:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:05:22] [Server thread/INFO]: Preparing level "world"
-[02:05:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:05:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:05:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:05:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:05:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:05:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:05:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:05:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:05:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:05:30] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[02:05:31] [Worker-Main-1/INFO]: Preparing spawn area: 40%
-[02:05:31] [Server thread/INFO]: Time elapsed: 5333 ms
-[02:05:31] [Server thread/INFO]: Done (9.341s)! For help, type "help"
-[02:06:15] [Server thread/INFO]: shelbylmw[/127.235.251.137:37949] logged in with entity id 84 at (3046.4231296416515, 105.0, 3715.699999988079)
-[02:06:15] [Server thread/INFO]: shelbylmw joined the game
-[02:06:19] [Server thread/WARN]: UUID of added entity already exists: byf['Cow'/303, l='ServerLevel[world]', x=2951.35, y=109.00, z=3856.69]
-[02:23:06] [Server thread/INFO]: ddednkald[/127.7.142.236:52081] logged in with entity id 3395 at (2981.659912757506, 119.58749997615814, 3764.574017288027)
-[02:23:06] [Server thread/INFO]: ddednkald joined the game
-[02:27:08] [Server thread/WARN]: shelbylmw moved too quickly! -10.324498537603631,1.0013359791121417,-0.2638672054554263
-[02:28:29] [Server thread/WARN]: shelbylmw moved too quickly! 10.054194948170789,-0.6709083839322858,0.14670349363177593
-[02:31:46] [Server thread/WARN]: shelbylmw moved too quickly! 4.134517818198219,-0.36809686001799946,-9.467589613226664
-[02:31:54] [Server thread/INFO]: shelbylmw has made the advancement [What a Deal!]
-[02:33:09] [Server thread/INFO]: Evvinz[/127.252.202.68:58865] logged in with entity id 7060 at (2958.498165555165, 96.0, 3983.300000011921)
-[02:33:09] [Server thread/INFO]: Evvinz joined the game
-[02:33:50] [Server thread/INFO]: [Not Secure] <Evvinz> holi
-[02:33:58] [Server thread/INFO]: [Not Secure] <ddednkald> e we
-[02:34:00] [Server thread/INFO]: [Not Secure] <ddednkald> vc
-[02:34:05] [Server thread/INFO]: [Not Secure] <ddednkald> vamos a meter al zombi a la granja
-[02:34:05] [Server thread/INFO]: [Not Secure] <Evvinz> ando abriendo el dc
-[02:38:48] [Server thread/INFO]: shelbylmw has made the advancement [Ol' Betsy]
-[02:44:27] [Server thread/INFO]: Evvinz lost connection: Disconnected
-[02:44:27] [Server thread/INFO]: Evvinz left the game
-[02:56:24] [Server thread/INFO]: ddednkald fell from a high place
-[02:57:00] [Server thread/INFO]: [Not Secure] <ddednkald> grimaldo
-[02:57:03] [Server thread/INFO]: [Not Secure] <ddednkald> hazme tp amo
-[02:57:05] [Server thread/INFO]: [Not Secure] <ddednkald> amor
-[02:58:58] [Server thread/WARN]: shelbylmw moved too quickly! 0.050341786336048244,-10.806526110008988,-0.2714886434782784
-[03:01:41] [Server thread/INFO]: shelbylmw has made the advancement [Cover Me with Diamonds]
-[03:02:44] [Server thread/INFO]: shelbylmw has made the advancement [Hot Stuff]
-[03:05:27] [Server thread/WARN]: shelbylmw moved too quickly! -1.2404969526605782,-4.090061919226727,-9.316721042292556
-[03:12:00] [Server thread/INFO]: shelbylmw lost connection: Disconnected
-[03:12:00] [Server thread/INFO]: shelbylmw left the game
-[03:12:04] [Server thread/INFO]: shelbylmw[/127.235.251.137:43633] logged in with entity id 26142 at (3086.421358419135, 113.0, 3743.2522980539125)
-[03:12:04] [Server thread/INFO]: shelbylmw joined the game
-[03:17:05] [Server thread/INFO]: shelbylmw lost connection: Timed out
-[03:17:05] [Server thread/INFO]: shelbylmw left the game
-[03:17:05] [Server thread/WARN]: handleDisconnection() called twice
-[03:19:49] [Server thread/INFO]: shelbylmw[/127.235.251.137:33683] logged in with entity id 32589 at (3052.037378258034, 112.5625, 3727.4363857953986)
-[03:19:49] [Server thread/INFO]: shelbylmw joined the game
-[04:06:55] [Server thread/INFO]: alextro17[/127.148.243.10:51027] logged in with entity id 47875 at (3028.952715624879, -41.0, 4086.3999640416355)
-[04:06:55] [Server thread/INFO]: alextro17 joined the game
-[04:09:21] [Server thread/INFO]: ddednkald lost connection: Disconnected
-[04:09:21] [Server thread/INFO]: ddednkald left the game
-[04:13:36] [Server thread/INFO]: ddednkald[/127.7.142.236:39817] logged in with entity id 50416 at (3080.8208015740634, 113.0, 3741.425856217394)
-[04:13:36] [Server thread/INFO]: ddednkald joined the game
-[04:13:39] [Server thread/INFO]: [Not Secure] <ddednkald> bro
-[04:13:42] [Server thread/INFO]: [Not Secure] <alextro17> eu
-[04:13:50] [Server thread/INFO]: [Not Secure] <ddednkald> vino visita we
-[04:13:53] [Server thread/INFO]: [Not Secure] <alextro17> XD
-[04:13:55] [Server thread/INFO]: [Not Secure] <alextro17> iiih
-[04:13:56] [Server thread/INFO]: [Not Secure] <alextro17> nimoyo
-[04:13:59] [Server thread/INFO]: [Not Secure] <alextro17> te vas a ir?
-[04:14:04] [Server thread/INFO]: [Not Secure] <ddednkald> no we
-[04:14:05] [Server thread/INFO]: [Not Secure] <alextro17> o vas a estar muteado?
-[04:14:08] [Server thread/INFO]: [Not Secure] <alextro17> avavava
-[04:14:11] [Server thread/INFO]: [Not Secure] <ddednkald> muteado
-[04:14:15] [Server thread/INFO]: [Not Secure] <alextro17> vavava
-[04:15:04] [Server thread/INFO]: [Not Secure] <ddednkald> ya los matamos we
-[04:15:07] [Server thread/INFO]: [Not Secure] <ddednkald> salieron 3 ya
-[04:15:11] [Server thread/INFO]: [Not Secure] <ddednkald> creo q nomas 2
-[04:15:19] [Server thread/INFO]: [Not Secure] <ddednkald> en mis cofres
-[04:15:26] [Server thread/INFO]: [Not Secure] <ddednkald> los q usaste chelb
-[04:18:17] [Server thread/INFO]: [Not Secure] <ddednkald> e we
-[04:18:24] [Server thread/INFO]: [Not Secure] <ddednkald> creen q me sauq e ppor afk
-[04:18:25] [Server thread/INFO]: [Not Secure] <ddednkald> ?
-[04:18:49] [Server thread/INFO]: [Not Secure] <ddednkald> neee
-[04:19:18] [Server thread/INFO]: [Not Secure] <ddednkald> ne me muevo de repe
-[04:19:25] [Server thread/INFO]: [Not Secure] <ddednkald> ando viendo
-[04:19:27] [Server thread/INFO]: [Not Secure] <ddednkald> jjk
-[04:19:32] [Server thread/INFO]: [Not Secure] <ddednkald> real
-[04:19:37] [Server thread/INFO]: [Not Secure] <ddednkald> si we
-[04:19:41] [Server thread/INFO]: [Not Secure] <ddednkald> ocupo hierro
-[04:19:48] [Server thread/INFO]: [Not Secure] <ddednkald> esq quiero llevar todos los granjeros de una
-[04:21:05] [Server thread/INFO]: [Not Secure] <ddednkald> nadi we
-[04:25:46] [Server thread/INFO]: [Not Secure] <ddednkald> ya me aburri we
-[04:25:47] [Server thread/INFO]: [Not Secure] <ddednkald> xddxdx
-[04:25:56] [Server thread/INFO]: [Not Secure] <ddednkald> de ver jjt
-[04:25:58] [Server thread/INFO]: [Not Secure] <ddednkald> k
-[04:26:00] [Server thread/INFO]: [Not Secure] <ddednkald> jajajaja
-[04:26:18] [Server thread/INFO]: [Not Secure] <ddednkald> voy en la segunda we
-[04:26:22] [Server thread/INFO]: [Not Secure] <ddednkald> si esta chida pero
-[04:26:25] [Server thread/INFO]: [Not Secure] <ddednkald> me da hueva
-[04:26:29] [Server thread/INFO]: [Not Secure] <ddednkald> we
-[04:26:37] [Server thread/INFO]: [Not Secure] <ddednkald> esta bien vergas lo de gojo y geto
-[04:26:41] [Server thread/INFO]: [Not Secure] <ddednkald> tbn la pelicula
-[04:26:45] [Server thread/INFO]: [Not Secure] <ddednkald> ppero ando quemado pa
-[04:26:58] [Server thread/INFO]: [Not Secure] <ddednkald> esq ya me avente la s1 y la peli entre ayer y hoy
-[04:27:05] [Server thread/INFO]: [Not Secure] <ddednkald> si we
-[04:27:15] [Server thread/INFO]: [Not Secure] <ddednkald> tbn berserk
-[04:27:19] [Server thread/INFO]: [Not Secure] <ddednkald> y
-[04:27:23] [Server thread/INFO]: [Not Secure] <ddednkald> deathnote we
-[04:27:35] [Server thread/INFO]: [Not Secure] <ddednkald> team L
-[04:27:41] [Server thread/INFO]: [Not Secure] <ddednkald> esta chilo
-[04:27:45] [Server thread/INFO]: [Not Secure] <ddednkald> l we
-[04:27:51] [Server thread/INFO]: [Not Secure] <ddednkald> light esta bien puños
-[04:27:55] [Server thread/INFO]: [Not Secure] <ddednkald> esq esta mimado we
-[04:27:58] [Server thread/INFO]: [Not Secure] <ddednkald> uno q es de barrio
-[04:28:06] [Server thread/INFO]: [Not Secure] <ddednkald> q asco we
-[04:31:28] [Server thread/INFO]: alextro17 has made the advancement [Ice Bucket Challenge]
-[04:31:57] [Server thread/INFO]: shelbylmw has made the advancement [The Parrots and the Bats]
-[04:35:09] [Server thread/INFO]: Evvinz[/127.252.202.68:46959] logged in with entity id 59890 at (3051.771464062457, 112.5625, 3726.978724714264)
-[04:35:09] [Server thread/INFO]: Evvinz joined the game
-[04:40:50] [Server thread/INFO]: [Evvinz: The difficulty has been set to Hard]
-[04:42:53] [Server thread/INFO]: [Not Secure] <alextro17> iris
-[04:43:47] [Server thread/INFO]: Evvinz lost connection: Disconnected
-[04:43:47] [Server thread/INFO]: Evvinz left the game
-[04:44:20] [Server thread/INFO]: [Not Secure] <alextro17> bsl
-[04:48:37] [Server thread/INFO]: [Not Secure] <alextro17> BSL
-[04:49:06] [Server thread/INFO]: [Not Secure] <alextro17> resource pack
-[04:50:17] [Server thread/INFO]: Evvinz[/127.252.202.68:55507] logged in with entity id 66157 at (3082.3608870018434, 117.0, 3757.1061095826094)
-[04:50:17] [Server thread/INFO]: Evvinz joined the game
-[04:51:06] [Server thread/INFO]: shelbylmw was slain by Zombie
-[04:56:55] [Server thread/INFO]: [Not Secure] <alextro17> blur
-[04:58:33] [Server thread/INFO]: Toki_D124[/127.142.113.32:53789] logged in with entity id 71152 at (3079.2066830297804, 105.9375, 3707.046925248846)
-[04:58:33] [Server thread/INFO]: Toki_D124 joined the game
-[04:59:12] [Server thread/INFO]: Toki_D124 was slain by ddednkald
-[05:02:20] [Server thread/INFO]: [Not Secure] <ddednkald> yo ls puse we
-[05:02:31] [Server thread/INFO]: [Not Secure] <ddednkald> todo we
-[05:02:44] [Server thread/INFO]: [Not Secure] <ddednkald> pinche server lo carrie yo we
-[05:03:02] [Server thread/INFO]: [Not Secure] <ddednkald> chelby
-[05:03:06] [Server thread/INFO]: [Not Secure] <ddednkald> trae papa we
-[05:03:10] [Server thread/INFO]: [Not Secure] <ddednkald> ya no da zanahoraia
-[05:03:18] [Server thread/INFO]: [Not Secure] <ddednkald> no acepta
-[05:03:24] [Server thread/INFO]: [Not Secure] <ddednkald> ya me las chingue
-[05:03:25] [Server thread/INFO]: [Not Secure] <ddednkald> xdxxddx
-[05:03:44] [Server thread/INFO]: [Not Secure] <ddednkald> e gera
-[05:04:40] [Server thread/INFO]: [Not Secure] <ddednkald> vamos a matar a grimaldo we
-[05:05:10] [Server thread/INFO]: Toki_D124 has made the advancement [What a Deal!]
-[05:05:32] [Server thread/INFO]: alextro17 has made the advancement [Cover Me with Diamonds]
-[05:05:34] [Server thread/INFO]: Toki_D124 has made the advancement [Cover Me with Diamonds]
-[05:06:17] [Server thread/INFO]: [Not Secure] <ddednkald> onose we
-[05:07:09] [Server thread/INFO]: Evvinz was slain by ddednkald
-[05:07:12] [Server thread/INFO]: [Not Secure] <ddednkald> jajajaja
-[05:07:15] [Server thread/INFO]: [Not Secure] <ddednkald> we
-[05:07:17] [Server thread/INFO]: [Not Secure] <ddednkald> yo perdi 50
-[05:07:25] [Server thread/INFO]: [Not Secure] <ddednkald> aki estan we
-[05:07:37] [Server thread/INFO]: [Not Secure] <ddednkald> jajajaja
-[05:07:39] [Server thread/INFO]: [Not Secure] <ddednkald> el gera
-[05:07:41] [Server thread/INFO]: [Not Secure] <ddednkald> el micro we
-[05:07:59] [Server thread/INFO]: [Not Secure] <ddednkald> we
-[05:08:01] [Server thread/INFO]: [Not Secure] <ddednkald> gera trae la mia
-[05:08:02] [Server thread/INFO]: [Not Secure] <ddednkald> jajajaja
-[05:08:06] [Server thread/INFO]: [Not Secure] <ddednkald> y es nueva esa we
-[05:08:10] [Server thread/INFO]: [Not Secure] <ddednkald> esa es mia
-[05:08:18] [Server thread/INFO]: [Not Secure] <ddednkald> no we
-[05:09:57] [Server thread/INFO]: [Not Secure] <ddednkald> jaaja
-[05:10:00] [Server thread/INFO]: [Not Secure] <ddednkald> vas bien lag
-[05:10:13] [Server thread/INFO]: [Not Secure] <ddednkald> we
-[05:10:17] [Server thread/INFO]: [Not Secure] <ddednkald> po chi
-[05:10:40] [Server thread/INFO]: [Not Secure] <ddednkald> traigo hueva
-[05:10:44] [Server thread/INFO]: [Not Secure] <Evvinz> >w<
-[05:10:47] [Server thread/INFO]: [Not Secure] <ddednkald> jajajajaj
-[05:14:40] [Server thread/INFO]: alextro17 has made the advancement [Hot Stuff]
-[05:14:59] [Server thread/INFO]: Evvinz was doomed to fall by ddednkald
-[05:16:04] [Server thread/INFO]: Evvinz has made the advancement [Ice Bucket Challenge]
-[05:18:16] [Server thread/INFO]: [Evvinz: Teleported 5 entities to 3086.720000, 132.000000, 3745.070000]
-[05:18:46] [Server thread/INFO]: Evvinz lost connection: Disconnected
-[05:18:46] [Server thread/INFO]: Evvinz left the game
-[05:19:02] [Server thread/INFO]: You whisper to alextro17: ola
-[05:19:02] [Server thread/INFO]: You whisper to ddednkald: ola
-[05:19:02] [Server thread/INFO]: You whisper to shelbylmw: ola
-[05:19:02] [Server thread/INFO]: You whisper to Toki_D124: ola
-[05:19:08] [Server thread/INFO]: [Not Secure] <alextro17> wsp
-[05:19:15] [Server thread/INFO]: [Not Secure] <ddednkald> WAHTSAP
-[05:19:23] [Server thread/INFO]: [Not Secure] <alextro17> what sup
-[05:19:28] [Server thread/INFO]: [Not Secure] <alextro17> what's up
-[05:19:34] [Server thread/INFO]: Summoned new Lightning Bolt
-[05:19:34] [Server thread/INFO]: Summoned new Lightning Bolt
-[05:19:34] [Server thread/INFO]: Summoned new Lightning Bolt
-[05:19:34] [Server thread/INFO]: Summoned new Lightning Bolt
-[05:19:34] [Server thread/INFO]: Villager cev['Fletcher'/57442, l='ServerLevel[world]', x=3083.43, y=104.00, z=3694.08] was struck by lightning bmk['Lightning Bolt'/80168, l='ServerLevel[world]', x=3080.23, y=105.50, z=3692.51].
-[05:19:34] [Server thread/INFO]: Villager cev['Villager'/57145, l='ServerLevel[world]', x=3082.13, y=105.00, z=3695.58] was struck by lightning bmk['Lightning Bolt'/80168, l='ServerLevel[world]', x=3080.23, y=105.50, z=3692.51].
-[05:19:34] [Server thread/INFO]: Villager cev['Villager'/57447, l='ServerLevel[world]', x=3083.07, y=104.00, z=3692.69] was struck by lightning bmk['Lightning Bolt'/80168, l='ServerLevel[world]', x=3080.23, y=105.50, z=3692.51].
-[05:19:34] [Server thread/INFO]: Villager cev['Fletcher'/57444, l='ServerLevel[world]', x=3081.45, y=104.00, z=3694.53] was struck by lightning bmk['Lightning Bolt'/80168, l='ServerLevel[world]', x=3080.23, y=105.50, z=3692.51].
-[05:19:45] [Server thread/INFO]: Evvinz[/127.252.202.68:43893] logged in with entity id 80306 at (3106.4720487902346, 114.0, 3750.4801466350305)
-[05:19:45] [Server thread/INFO]: Evvinz joined the game
-[05:20:18] [Server thread/INFO]: ddednkald was killed by Witch using magic
-[05:20:18] [Server thread/INFO]: [Evvinz: The difficulty has been set to Peaceful]
-[05:21:28] [Server thread/INFO]: ddednkald lost connection: Timed out
-[05:21:28] [Server thread/INFO]: ddednkald left the game
-[05:22:21] [Server thread/INFO]: Evvinz lost connection: Disconnected
-[05:22:21] [Server thread/INFO]: Evvinz left the game
-[05:22:42] [Server thread/INFO]: Gave 30 [Emerald] to 3
-[05:22:49] [Server thread/INFO]: Evvinz[/127.252.202.68:39093] logged in with entity id 81073 at (3070.6075483418085, 108.0, 3726.635936834916)
-[05:22:49] [Server thread/INFO]: Evvinz joined the game
-[05:24:44] [Server thread/INFO]: Evvinz lost connection: Disconnected
-[05:24:44] [Server thread/INFO]: Evvinz left the game
-[05:25:08] [Server thread/INFO]: Played sound minecraft:entity.creeper.primed to 3 players
-[05:25:15] [Server thread/INFO]: Evvinz[/127.252.202.68:55403] logged in with entity id 81851 at (3075.7644081412277, 104.0, 3699.3118654787713)
-[05:25:15] [Server thread/INFO]: Evvinz joined the game
-[05:25:23] [Server thread/INFO]: Played sound minecraft:entity.creeper.primed to 4 players
-[05:26:00] [Server thread/INFO]: [Evvinz: Teleported shelbylmw to Evvinz]
-[05:26:20] [Server thread/INFO]: [Not Secure] <alextro17> que si isra recupero sus cosas
-[05:28:32] [Server thread/INFO]: Set the time to 17556
-[05:28:48] [Server thread/INFO]: Toki_D124 has made the advancement [Take Aim]
-[05:29:03] [Server thread/INFO]: Set the time to 18668
-[05:30:01] [Server thread/INFO]: alextro17 has made the advancement [Not Today, Thank You]
-[05:30:49] [Server thread/INFO]: Evvinz lost connection: Disconnected
-[05:30:49] [Server thread/INFO]: Evvinz left the game
-[05:33:17] [Server thread/INFO]: shelbylmw has made the advancement [A Seedy Place]
-[05:34:54] [Server thread/INFO]: Toki_D124 has made the advancement [A Seedy Place]
-[05:43:07] [Server thread/INFO]: You whisper to alextro17: quienes están
-[05:43:07] [Server thread/INFO]: You whisper to shelbylmw: quienes están
-[05:43:07] [Server thread/INFO]: You whisper to Toki_D124: quienes están
-[05:43:10] [Server thread/INFO]: [Not Secure] <alextro17> yo
-[05:43:12] [Server thread/INFO]: [Not Secure] <alextro17> alda
-[05:43:13] [Server thread/INFO]: [Not Secure] <alextro17> y shelby
-[05:43:17] [Server thread/INFO]: [Not Secure] <shelbylmw> ei
-[05:43:21] [Server thread/INFO]: You whisper to alextro17: me corrooooooo
-[05:43:21] [Server thread/INFO]: You whisper to shelbylmw: me corrooooooo
-[05:43:21] [Server thread/INFO]: You whisper to Toki_D124: me corrooooooo
-[05:43:54] [Server thread/INFO]: shelbylmw has made the advancement [Take Aim]
+[03:10:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:10:09] [ServerMain/INFO]: Loaded 7 recipes
+[03:10:09] [ServerMain/INFO]: Loaded 1271 advancements
+[03:10:10] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:10:10] [Server thread/INFO]: Loading properties
+[03:10:10] [Server thread/INFO]: Default game type: SURVIVAL
+[03:10:10] [Server thread/INFO]: Generating keypair
+[03:10:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:10:10] [Server thread/INFO]: Using epoll channel type
+[03:10:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:10:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:10:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:10:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:10:10] [Server thread/INFO]: Preparing level "world"
+[03:10:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:10:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:10:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:10:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:10:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:10:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:10:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:10:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:10:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:10:16] [Worker-Main-2/INFO]: Preparing spawn area: 34%
+[03:10:17] [Server thread/INFO]: Time elapsed: 4276 ms
+[03:10:17] [Server thread/INFO]: Done (6.694s)! For help, type "help"
